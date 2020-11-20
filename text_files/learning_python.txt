@@ -1,0 +1,3 @@
+In Python you can write lines and use indentation and new lines to make your code more readable.
+In Python you can make representations of irl objects with descriptive traits in variables.
+In Python you can easily process large amounts of data and do math efficiently.
